@@ -1,3 +1,5 @@
+.artifacts/**
+
 # Created by https://www.toptal.com/developers/gitignore/api/c,direnv,emacs,latex,linux,osx,python,scheme,vim,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=c,direnv,emacs,latex,linux,osx,python,scheme,vim,windows
 
